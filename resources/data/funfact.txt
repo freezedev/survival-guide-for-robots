@@ -1,0 +1,62 @@
+Flying around reduces the amount of your fuel left.
+Walking around reduces the amount of your energy.
+Fly carefully.
+Walk carefully.
+If you run out of enery or fuel the game is over.
+If your health bar reaches zero the game is over.
+Find at least seven parts to repair your shuttle.
+Having a full inventory drains more battery power.
+Having a full inventory has a negative effect on your \n fuel reserves.
+Just move over other objects to interact with them.
+According to an ancient legend, the robot race has \n been created in just seven days.
+Contrary to popular belief robots are not related to \n Cylons.
+Robots were build to serve. Do you believe that?
+Robot prostitution is prohibited since 2142.
+Stay alive for 42 days and you get pie. I wouldn't lie, \n would I?
+You can only stay alive for five days without shelter.
+Just a note: In real life, there are no 6 foot tall \n batteries lying around on island planets.
+In real life, you probably wouldn't find fuel for free \n lying around either.
+In real life, nobody leaves stuff behind to repair a \n space shuttle.
+This is game is nothing like real life.
+That blue surface isn't water, seriously.
+The surface isn't water, ok? It's some ...err... blue \n strato... atmosphere.
+Soon available: Survival Guide for Nerds: How to go \n outside.
+Soon available: Survival Guide for Time Travelers: Don't \n step on any flies.
+Soon available: Survival Guide for Vampires: Bite or being \n bitten.
+Soon available: Survival Guide for Werewolves: Can't wait \n for the next full moon.
+Soon available: Survival Guide for Zombies: I'm sorry, you \n can't have brain tonight.
+Robots have a terrible secret: Their "skin" sparkles in \n sunlight.
+Robots are very sensible.
+You can always count on a robot.
+You don't have a robot at home? Buy one online.
+Available in 2344: jRobot - The new sensation. Pre-order \n now.
+Robots cannot travel to parallel universes.
+Stay alive. It's easier than you think.
+Dying can be hazardous to your virtual life.
+It's not that big of a planet, but don't get lost.
+Robots from China are not yellow-colored.
+Robot racism is still a problematic issue.
+The robot automatically activates his jetpack if he is \n not walking on an island.
+How can you tell if a robot is male or female?
+I am alive. Just kidding. Got you.
+This could be your message here.
+Donate for a good cause and help orphan robots.
+Most of these messages are nonsense.
+Fun facts are fun, aren't they?
+Some of these messages are useful.
+Some of these messages can prevent you from virtual death.
+Do not underestimate the effects of virtual death.
+Keep in mind, if you virtually die you will never play \n this robot again, but a clone of him.
+Does the robot cease to exist if he dies?
+Just an urban Myth: If you ask a robot "1011010110110?", \n the robot will die instantly.
+So, there is no minimap. Do you always have a minimap \n in real life?
+You can't use your spaceship as shelter, errr ... there \n is some toxic radiation stuff there.
+So, yeah, pixel collision is not working perfectly \n all the time. But it's still ok, right?
+Have you read all of these messages?
+Have you noticed that batteries are bigger than space \n ships? Crazy world, huh.
+Robots love kitties ... and whales ... and octopuses \n ... and aliens ... and all other kinds of stuff.
+Not all aliens look the same... just sayin'.
+If robots would plan an uprising against humans they \n would let you know. Fair is fair.
+There are rumors that there is a robot god who created \n the universe. 
+Clearly robots have been manufactured by humans. \n Or that's what they like you to believe.
+The creator of this game is a robot himself. \n All praise the creator.

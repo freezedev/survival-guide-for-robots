@@ -1,0 +1,1 @@
+Use WSAD or arrow keys to move around. You automatically fly once you leave an island. Check out the island in the north-east with the alien on it.
